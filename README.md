@@ -1,5 +1,5 @@
 # Gift-Box-for-Gamer-buds
-Happy womens day for all u old ladies
+Happy womens day to all of you old ladies
 
 a fun project made with HTML,CSS
 
